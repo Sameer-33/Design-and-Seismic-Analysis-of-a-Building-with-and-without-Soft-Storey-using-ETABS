@@ -1,0 +1,1 @@
+# Design-and-Seismic-Analysis-of-a-Building-with-and-without-Soft-Storey-using-ETABS
